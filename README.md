@@ -1,1 +1,2 @@
 # Backend-and-Game-Design-challenge
+The solution starts from the assumption that we get the data through console.Each club is one class that has its own name and rating that is calculated using each player’s rating and number of players. If user enter even number of clubs, pairs won't be created. The program runs as a java application and by entering input data through the console we get  pairs of clubs organized by their ratings.

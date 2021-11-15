@@ -37,7 +37,7 @@ public class Main {
 			System.out.println(
 					"Enter the players rating(as number) or any other character for the end, for " + name + " club:");
 			int j = 0;
-			while (true && j < n) {
+			while (j < n) {
 				playerRating = sc.next();
 				try {
 					int playerRatingInt = Integer.parseInt(playerRating);
